@@ -19,6 +19,8 @@ You may want to remove the settings apk after you are done as it cause annoying 
 
 Put your device into a bluetooth pairing mode.  Select Bluetooth, then use the touchpad to select your device.  You'll be asked to type a code using the keyboard and then you are all done.
 
+If you are relatively new to Linux/programming, here are some more detailed instructions: https://github.com/jbzurn/glass_docs/blob/master/howto_pair_bluetooth_keyboard_with_glass.txt
+
 Arduino <-> Glass
 ------------------
 
